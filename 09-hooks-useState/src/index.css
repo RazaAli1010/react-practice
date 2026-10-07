@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: black;
+}
+
+div{
+  padding: 20px;
+}
+
+div h1{
+  margin-left: 110px;
+  width: fit-content;
+  background-color: grey;
+  padding: 5px 10px;
+}
+div button{
+  margin-left: 20px;
+  padding: 10px 20px;
+  background-color: gray;
+  margin-top: 20px;
+}
